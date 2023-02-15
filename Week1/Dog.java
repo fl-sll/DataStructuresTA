@@ -2,12 +2,12 @@ package Week1;
 
 public class Dog {
     String name;
-    String race;
+    String breed;
     int age;
 
-    public Dog(String name1, String race1, int age1) {
+    public Dog(String name1, String breed1, int age1) {
         name = name1;
-        race = race1;
+        breed = breed1;
         age = age1;
     }
 
